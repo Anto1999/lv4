@@ -21,7 +21,7 @@ namespace lv4_doop
             foreach (string line in lines)
             {
                 List<double> row =
-               new List<double>(Array.ConvertAll(line.Split(','), double.Parse));
+               new List<double>(Array.ConvertAll(line.Split(';'), double.Parse));
                 this.data.Add(row);
             }
         }
