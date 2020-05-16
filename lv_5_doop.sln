@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lv_5_doop", "lv_5_doop\lv_5_doop.csproj", "{3D481BA2-C671-4B69-80BE-A6A3B68E3BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D481BA2-C671-4B69-80BE-A6A3B68E3BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D481BA2-C671-4B69-80BE-A6A3B68E3BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D481BA2-C671-4B69-80BE-A6A3B68E3BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D481BA2-C671-4B69-80BE-A6A3B68E3BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65B80F6B-462F-4D21-89C5-15BB7F037FDE}
+	EndGlobalSection
+EndGlobal
